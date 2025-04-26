@@ -15,14 +15,7 @@ Easily embeddable on any website!
 🛡️ Loading spinner + error handling included
 
 
-🔧 How to Use
-Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/mr-chatbot.git
-Open index.html in your browser.
 
 No server required — it's pure frontend!
 
